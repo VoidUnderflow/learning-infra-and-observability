@@ -1,0 +1,1 @@
+I'm following this adaption of the original: https://github.com/mmumshad/kubernetes-the-hard-way/tree/master. Props to the maintainer for providing an alternative to deploying cloud resources.
